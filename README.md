@@ -1,1 +1,2 @@
-# pro-virtual-pet-3
+# My Pro Pet
+My Virtual Pro Pet
